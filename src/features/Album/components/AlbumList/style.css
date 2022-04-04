@@ -1,0 +1,6 @@
+.album-list {
+    display: flex;
+    flex-wrap: row no-wrap;
+    list-style: none;
+    justify-content: space-between; 
+}

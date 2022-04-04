@@ -1,0 +1,10 @@
+.todo-list .completed{
+    font-style: italic;
+    color: #ccc;
+    text-decoration: line-through;
+}
+
+.todo-list li {
+    cursor: pointer;
+}
+

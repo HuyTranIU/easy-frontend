@@ -20,7 +20,6 @@ const useStyles = makeStyles((theme) => ({
 
 const FilterByService = ({ onChange, filters }) => {
     const classes = useStyles()
-    console.log('filters', filters);
 
     const handleChange = (e) => {
         if (!onChange) return;
